@@ -2,6 +2,12 @@ yt-dlp "https://www.youtube.com/watch?v=4ONy5IaRRI0" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=w-On1jcy3Rg" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tp/tp-en-2026-04-03.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=gQ5hmkxsSYE" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "iiw/iiw-en-2026-04-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=oaSSlripTro" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/ee/es-2026-04-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=ZZsebtErqtc" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/viva/es-2026-04-03.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=LvrFwTDqv1s" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/inv/es-2026-04-inv-03.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=YUohOTQD7ak" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/her/es-2026-04-03.mp4"
@@ -9,6 +15,8 @@ yt-dlp "https://www.youtube.com/watch?v=YUohOTQD7ak" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=yK6iNRn0-08" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/hope/es-2026-04-03.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=SIq1NCdDRXs" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2026-04-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=lHQ0jACM5q4" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/ca/fr-ca-inv-2026-04-03.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=2f_WoNEVzjA" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2026-04-03.mp4"
 
